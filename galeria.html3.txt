@@ -1,0 +1,189 @@
+<html>
+<head>
+
+</head>
+<body>
+
+<div class="gallery">
+
+<div class="gallery-item">
+  <a target="_blank" href="acrilico.jpg">
+    <img src="mini_acrilico.jpg" alt="Cinque Terre">
+  </a>
+  <div class="desc">uñas de acrilico</div>
+</div>
+
+<div class="gallery-item">
+  <a target="_blank" href="fresss.jpg">
+    <img src="mini_fresss.jpg" alt="Forest">
+  </a>
+  <div class="desc">uñas fresss</div>
+</div>
+
+<div class="gallery-item">
+  <a target="_blank" href="colores.jpg">
+    <img src="mini_colores.jpg" alt="Northern Lights">
+  </a>
+  <div class="desc">uñas de colores</div>
+</div>
+
+<div class="gallery-item">
+  <a target="_blank" href="maquillajefiesta.jpg">
+    <img src="mini_maquillajefiesta.jpg" alt="Mountains">
+  </a>
+  <div class="desc">maquillaje de fiesta</div>
+</div>
+
+<div class="gallery-item">
+  <a target="_blank" href="uñaspico.jpg">
+    <img src="mini_uñaspico.jpg" alt="Mountains">
+  </a>
+  <div class="desc">uña de pico</div>
+</div>
+
+<div class="gallery-item">
+  <a target="_blank" href="almendra.jpg">
+    <img src="mini_almendra.jpg" alt="Mountains">
+  </a>
+  <div class="desc">uñas almendradas</div>
+</div>
+
+<div class="gallery-item">
+  <a target="_blank" href="natural.jpg">
+    <img src="mini_natural.jpg" alt="Mountains">
+  </a>
+  <div class="desc">maquillaje natural</div>
+</div>
+
+<div class="gallery-item">
+  <a target="_blank" href="buchon.jpg">
+    <img src="mini_buchon.jpg" alt="Mountains">
+  </a>
+  <div class="desc">maquillaje buchon</div>
+</div>
+
+<div class="gallery-item">
+  <a target="_blank" href="largas.jpg">
+    <img src="mini_largas.jpg" alt="Forest">
+  </a>
+  <div class="desc">uñas largas</div>
+</div>
+
+<div class="gallery-item">
+  <a target="_blank" href="verdeagua.jpg">
+    <img src="mini_verde.jpg" alt="Forest">
+  </a>
+  <div class="desc">uñas verdeagua</div>
+</div>
+
+<div class="gallery-item">
+  <a target="_blank" href="alzada.jpg">
+    <img src="mini_alzada.jpg" alt="Mountains">
+  </a>
+  <div class="desc">mano alzada</div>
+</div>
+
+<div class="gallery-item">
+  <a target="_blank" href="francesas.jpg">
+    <img src="mini_francesas.jpg" alt="Mountains">
+  </a>
+  <div class="desc">uñas francesas</div>
+</div>
+
+<div class="gallery-item">
+  <a target="_blank" href="rosas.jpg">
+    <img src="mini_rosas.jpg" alt="Mountains">
+  </a>
+  <div class="desc">uñas rosas</div>
+</div>
+
+<div class="gallery-item">
+  <a target="_blank" href="amor.jpg">
+    <img src="mini_amor.jpg" alt="Mountains">
+  </a>
+  <div class="desc">maquillaje del amor</div>
+</div>
+
+<div class="gallery-item">
+  <a target="_blank" href="brillo.jpg">
+    <img src="mini_brillo.jpg" alt="Mountains">
+  </a>
+  <div class="desc">maquillaje de brillo</div>
+</div>
+
+<div class="gallery-item">
+  <a target="_blank" href="color.jpg">
+    <img src="mini_color.jpg" alt="Mountains">
+  </a>
+  <div class="desc">maquillaje colores</div>
+</div>
+
+<div class="gallery-item">
+  <a target="_blank" href="hallowen.jpg">
+    <img src="mini_hallowen.jpg" alt="Mountains">
+  </a>
+  <div class="desc">maquillaje de hallowen</div>
+</div>
+
+<div class="gallery-item">
+  <a target="_blank" href="rojoo.jpg">
+    <img src="mini_rojoo.jpg" alt="Mountains">
+  </a>
+  <div class="desc">maquillaje rojo</div>
+</div>
+
+<div class="gallery-item">
+  <a target="_blank" href="fosforecente.jpg">
+    <img src="mini_fosforecente.jpg" alt="Mountains">
+  </a>
+  <div class="desc">maquillaje fosforecente</div>
+</div>
+
+<div class="gallery-item">
+  <a target="_blank" href="casual.jpg">
+    <img src="mini_casual.jpg" alt="Mountains">
+  </a>
+  <div class="desc">maquillaje casual</div>
+</div>
+
+<div class="gallery-item">
+  <a target="_blank" href="extra.jpg">
+    <img src="mini_extra.jpg" alt="Mountains">
+  </a>
+  <div class="desc">maquillaje extrabagante</div>
+</div>
+
+<div class="gallery-item">
+  <a target="_blank" href="navidad.jpg">
+    <img src="mini_navidad.jpg" alt="Mountains">
+  </a>
+  <div class="desc">maquillaje de navidad</div>
+</div>
+
+<div class="gallery-item">
+  <a target="_blank" href="juvenil.jpg">
+    <img src="mini_juvenil.jpg" alt="Mountains">
+  </a>
+  <div class="desc">maquillaje juvenil</div>
+</div>
+
+<div class="gallery-item">
+  <a target="_blank" href="negras.jpg">
+    <img src="mini_negras.jpg" alt="Mountains">
+  </a>
+  <div class="desc">uñas negras</div>
+</div>
+
+<div class="gallery-item">
+  <a target="_blank" href="coquette.jpg">
+    <img src="mini_coquette.jpg" alt="Mountains">
+  </a>
+  <div class="desc">uñas coquette</div>
+</div>
+
+<div class="gallery-item">
+  <a target="_blank" href="tinto.jpg">
+    <img src="mini_tinto.jpg" alt="Mountains">
+  </a>
+  <div class="desc">maquillaje tinto</div>
+</div>
