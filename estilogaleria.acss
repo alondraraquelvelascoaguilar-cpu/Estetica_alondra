@@ -7,12 +7,12 @@ div.gallery {
 
 div.gallery-item {
   margin: 5px;
-  border: 1px solid #ccc;
+  border: 1px solid #FF00FF;
   width: 180px;
 }
 
 div.gallery-item:hover {
-  border: 1px solid #777;
+  border: 1px solid #007777;
 }
 
 div.gallery-item img {
